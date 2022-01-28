@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//O(logn)인 이진 탐색 알거리즘의 비교연산의 횟수 확인
+//O(logn)인 이진 탐색 알거리즘의 비교연산의 횟수 확인한다.
 
 
 int Bsearch(int ar[], int len,int target){
