@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//여러 가지 순회 방법과 추가적인 함수들
+//여러 가지 순회 방법과 추가적인 함수들 공부
 
 typedef struct TreeNode{
     struct  TreeNode *left;    
